@@ -1,2 +1,0 @@
-[/MCPig_EC/]1.0.0[/MCPig_EC/]
-[/PigAPI/]84820[/PigAPI/]

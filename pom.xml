@@ -20,9 +20,9 @@
   </build>
   <dependencies>
   	<dependency>
-  		<groupId>org.kohsuke</groupId>
-  		<artifactId>github-api</artifactId>
-  		<version>1.75</version>
+  		<groupId>org.apache.ftpserver</groupId>
+  		<artifactId>ftpserver-core</artifactId>
+  		<version>1.0.6</version>
   	</dependency>
   </dependencies>
 </project>
